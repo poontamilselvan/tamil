@@ -8,9 +8,9 @@ int main()
  cin>>a;
  cout<<" enter number "<<endl;
  cin>>g;
- cout<<"*********************************"<<endl;
+ cout<<"*****"<<endl;
  cout<<" programology student site "<<endl;
- cout<<"**********************************"<<endl;
+ cout<<"****"<<endl;
  for(;a<=g;)
  {
  cout<<a<<endl;
