@@ -11,4 +11,4 @@ void main()
        q++;
     }
     printf("%d",q);
-    
+}
