@@ -7,9 +7,9 @@ void main()
     b=strlen(a);
     for(i=0;i<=b;i++)
     {
-       if(isspace(a[i]))
+       if(isalpha(a[i]))
        q++;
     }
-    printf("%d",q+1);
+    printf("%d",q);
     
   }
