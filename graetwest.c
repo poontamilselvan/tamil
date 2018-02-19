@@ -13,10 +13,10 @@ void main()
          if(a[i]>l)
          {
          l=a[i];
-          printf("the greatest is%d",l);
+         
          }
         
      }
      
-    
+     printf("the greatest is%d",l);
 }
