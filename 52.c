@@ -1,9 +1,16 @@
 #include <stdio.h>
-int main(void) 
+int main(void)    
 {
 int n;
+  
+  
 scanf("%d",&n);
-switch(n)
+  
+  
+  
+switch(n)   
+  
+  
 {
 case 1:
 printf("One");
@@ -35,7 +42,10 @@ break;
 case 10:
 printf("Ten");
 break;
+    
+    
 default:
+    
 printf("Enter number between 1 and 10");
 }
 return 0;
